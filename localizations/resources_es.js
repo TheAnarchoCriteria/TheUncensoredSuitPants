@@ -1,7 +1,7 @@
 const resources_es = {
   pageTitle: "Manifesto",
   logoAlt: "Logo de la marca",
-  productName: "Falda con secretos",
+  productName: "The Uncensored Suit Pants",
   imageAlt: "Foto del artículo",
   menuItems: [
     "Código del producto",
